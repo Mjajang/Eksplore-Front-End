@@ -13,4 +13,4 @@ Latest at the top
 
 | ID | APP                                  | About  | Link  | Code  |  Tech Stack  |
 | -- | ------------------------------------ |------| ------ | ------ |  ------ | 
-| 1  | HTML           | Fundamental HTML | [Link](https://github.com/Mjajang/LAT-Laravel-11) | FUND | HTML |
+| 1  | HTML           | Fundamental HTML | [Link](https://github.com/Mjajang/web-apps) | FUND | HTML |
