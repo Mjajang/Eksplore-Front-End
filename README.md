@@ -1,4 +1,5 @@
 # Eksplore-Front-End
+
 Repo for eksplore Front-End tech, fundamental, case project and others
 
 ## Code Projects
@@ -11,6 +12,7 @@ Repo for eksplore Front-End tech, fundamental, case project and others
 
 Latest at the top
 
-| ID | APP                                  | About  | Link  | Code  |  Tech Stack  |
-| -- | ------------------------------------ |------| ------ | ------ |  ------ | 
-| 1  | Web Apps           | Fundamental HTML, CSS & JS | [Link](https://github.com/Mjajang/web-apps) | FUND | HTML, CSS & JS |
+| NO  | APP               | About                      | Link                                                                                | Code | Tech Stack     |
+| --- | ----------------- | -------------------------- | ----------------------------------------------------------------------------------- | ---- | -------------- |
+| 1.  | Web Apps          | Fundamental HTML, CSS & JS | [Link](https://github.com/Mjajang/web-apps)                                         | FUND | HTML, CSS & JS |
+| 2.  | Apple Landingpage | Project FastCampus Course  | [Link](https://github.com/Mjajang/web-apps/tree/master/challenges/slicing/apple-id) | FUND | HTML, CSS & JS |
